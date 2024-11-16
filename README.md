@@ -1,4 +1,4 @@
-![MasterHead]([https://cdn.dribbble.com/users/1197989/screenshots/5585685/media/139eef797b4034c31cd8189a717c2022.gif](https://miro.medium.com/v2/resize:fit:1400/0*zgaHSfLGrzU3l8Yt.png)
+![MasterHead]([https://cdn.dribbble.com/users/1197989/screenshots/5585685/media/139eef797b4034c31cd8189a717c2022.gif])
 
 # Swiggy Analysis Project
 Swiggy Anaysis (bangalore) based on Data Scrapped from website.
@@ -51,49 +51,10 @@ In the data cleaning phase, Power Query was utilized to refine the extracted dat
 3. Removing Null Values:
     Null or missing values in the dataset were identified and removed to enhance data completeness. Power Query allowed for the easy identification and filtering out of these null values, ensuring that the dataset was comprehensive and reliable for subsequent analysis.
 
-## 3. Insights Generated 📊
-
-1. A detailed examination of restaurant distribution across different areas was conducted. The study focused on prominent areas such as BTM Layout, Indiranagar, and Koramangala, revealing significant insights into the local restaurant landscape.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/0a00b278-9984-4745-8cc8-8ddc9c68fa02)
-
-2. In the analysis of Swiggy data, notably Indiranagar and BTM Layout were offering most expensive dishes, whereas the base the price for all of the areas was the same.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/b1d1726b-6270-4be4-a0fe-eecc5f196053)
-
-3. A focus was placed on determining the popularity of different areas based on the number of ratings received by restaurants. Specifically, restaurants with more than 1000 ratings were considered significant indicators of popularity. Through this analysis, several areas emerged as the most popular hubs for dining experiences.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/687b7052-54ec-48ae-b709-ab811866adc2)
-
-4. A correlation study was conducted to explore the relationship between restaurant ratings and delivery times. Surprisingly, the findings revealed a negative correlation between these two variables. This means that, contrary to common expectations, as delivery times increased, restaurant ratings tended to decrease.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/99433bc8-9029-46ae-a360-a1f586de44c5)
-
-5. A specific focus was placed on identifying areas with the highest number of low-rated restaurants, considering ratings below 3.5 as indicators of low customer satisfaction. This criterion allowed for a detailed examination of areas where diners might face disappointing dining experiences.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/d72b3ac3-100c-4f46-a7b9-1bbef86f0a16)
-
-6. A comprehensive examination was conducted to understand the culinary landscape in different areas. The focus was on identifying the most popular cuisines and their distribution across various regions. Interestingly, the research revealed that a select few cuisines dominated the market, with the top 5-6 cuisines collectively constituting more than half of the total market share.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/0b46d2ae-6122-414f-a1da-73c5c411f541)
-
-7. The Swiggy dashboard offers a user-friendly interface providing insights, highlighting areas with low-rated restaurants, and offering detailed cuisine price information. The addition of the area-wise slicer enhances user interactivity, ensuring a personalized and data-driven decision for entity.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/29bb707e-6924-4d3c-b669-f39eff5cb2f6)
-
----
-
-# Important Insight
-The analysis of low-rated restaurants in specific areas on Swiggy's platform has revealed a compelling investment insight: targeting areas with a high concentration of low-rated cuisines presents a unique business opportunity. In these regions, there is a clear demand for quality food and prompt delivery services. Investors seeking to enter the food industry could strategically focus on these areas, capitalizing on the gap in customer satisfaction. By establishing a restaurant or food delivery service that prioritizes exceptional food quality and timely deliveries, there is a significant potential to capture market share and gain customer loyalty. The existing dissatisfaction among customers in these areas signifies an untapped market eager for improved dining experiences.
-![image](https://github.com/Prakash-Khatri/Swiggy_Analysis/assets/133597202/7b2c1337-98e0-4a40-a768-3318dc3bf0a2)
-
----
-
-# Conclusion:
-In conclusion, the Swiggy project emerges as a pivotal tool for prospective entrepreneurs venturing into the hotel business. By harnessing the power of analytics and insights, it provides invaluable data-driven guidance essential for making informed decisions. Through detailed analysis, it not only offers a profound understanding of market trends but also aids in identifying relevant locations for establishing new businesses. Armed with comprehensive information, entrepreneurs can strategically position their ventures, ensuring they thrive in the competitive landscape. Swiggy's innovative approach not only simplifies the complexities of the business world but also paves the way for sustainable growth and success in the ever-evolving hospitality industry.
-
 # Key Learnings:
 The Swiggy project offers several key learnings that can be invaluable for entrepreneurs and businesses:
   - Data-Driven Decision Making: Swiggy's success is attributed to its effective use of data analytics. Entrepreneurs can learn the importance of collecting, analyzing, and leveraging data to make informed decisions. Data-driven insights enable businesses to understand customer preferences, market trends, and operational efficiencies, leading to strategic choices.
 
-  - Customer-Centric Approach: Swiggy's focus on customer satisfaction and convenience has set new standards in the food delivery industry. Entrepreneurs can learn the significance of prioritizing customer needs, ensuring seamless user experiences, and building customer loyalty. Customer feedback and responsiveness to their demands are crucial for long-term success.
-
-  - Innovative Technology Adoption: Swiggy has embraced innovative technologies, mobile apps, and real-time tracking systems. Entrepreneurs can learn the importance of staying updated with technological advancements and integrating them into their business models to enhance efficiency, customer engagement, and overall operations.
-
-  - Effective Partnerships: Swiggy's partnerships with restaurants, cloud kitchens, and delivery personnel have been vital to its growth. Entrepreneurs can learn the art of forming strategic alliances and collaborations within the industry. These partnerships can create synergies, expand market reach, and provide a competitive edge.
 
 # Futute Scope:
 The future scope of Swiggy's analysis for entrepreneurs entering the hotel business is vast and promising. Here are some key areas where Swiggy's data analytics can be leveraged for strategic decision-making:
