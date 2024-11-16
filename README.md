@@ -1,4 +1,4 @@
-![MasterHead]([https://cdn.dribbble.com/users/1197989/screenshots/5585685/media/139eef797b4034c31cd8189a717c2022.gif])
+![MasterHead](https://cdn.dribbble.com/users/1197989/screenshots/5585685/media/139eef797b4034c31cd8189a717c2022.gif)
 
 # Swiggy Analysis Project
 Swiggy Anaysis (bangalore) based on Data Scrapped from website.
